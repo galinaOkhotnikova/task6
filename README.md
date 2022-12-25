@@ -1,4 +1,4 @@
-# task4_project
+# task6
 
 ## Project setup
 ```
